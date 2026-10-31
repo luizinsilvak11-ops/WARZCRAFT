@@ -1,2 +1,2 @@
-# WARZCRAFT
-Bem-Vindo ao WARZCRAFT
+GuerreCraft
+Bem-Vindo ao GuerraCraft
